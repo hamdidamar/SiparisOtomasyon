@@ -1,0 +1,146 @@
+F:\Yedekler\Kişisel\Okul\Uygulamalar\C#\SiparişOtomasyon\SiparişOtomasyon\bin\Debug\SiparişOtomasyon.exe.config
+F:\Yedekler\Kişisel\Okul\Uygulamalar\C#\SiparişOtomasyon\SiparişOtomasyon\bin\Debug\SiparişOtomasyon.exe
+F:\Yedekler\Kişisel\Okul\Uygulamalar\C#\SiparişOtomasyon\SiparişOtomasyon\bin\Debug\SiparişOtomasyon.pdb
+F:\Yedekler\Kişisel\Okul\Uygulamalar\C#\SiparişOtomasyon\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.csprojResolveAssemblyReference.cache
+F:\Yedekler\Kişisel\Okul\Uygulamalar\C#\SiparişOtomasyon\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.Properties.Resources.resources
+F:\Yedekler\Kişisel\Okul\Uygulamalar\C#\SiparişOtomasyon\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.csproj.GenerateResource.Cache
+F:\Yedekler\Kişisel\Okul\Uygulamalar\C#\SiparişOtomasyon\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.exe
+F:\Yedekler\Kişisel\Okul\Uygulamalar\C#\SiparişOtomasyon\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.pdb
+F:\Yedekler\Kişisel\Okul\Uygulamalar\C#\SiparişOtomasyon\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.frm_GenelGiris.resources
+F:\Yedekler\Kişisel\Okul\Uygulamalar\C#\SiparişOtomasyon\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.frm_MusteriAnaSayfa.resources
+F:\Yedekler\Kişisel\Okul\Uygulamalar\C#\SiparişOtomasyon\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.frm_Sepetim.resources
+F:\Yedekler\Kişisel\Okul\Uygulamalar\C#\SiparişOtomasyon\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.frm_SiparisVer.resources
+F:\Yedekler\Kişisel\Okul\Uygulamalar\C#\SiparişOtomasyon\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.frm_YoneticiAnaSayfa.resources
+F:\Yedekler\Kişisel\Okul\Uygulamalar\C#\SiparişOtomasyon\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.frm_Hesabım.resources
+F:\Yedekler\Kişisel\Okul\Uygulamalar\C#\SiparişOtomasyon\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.frm_HesapEkle.resources
+F:\Yedekler\Kişisel\Okul\Uygulamalar\C#\SiparişOtomasyon\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.frm_Gecmisİslemler.resources
+F:\Yedekler\Kişisel\Okul\Uygulamalar\C#\SiparişOtomasyon\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.frm_GelenSiparis.resources
+F:\Yedekler\Kişisel\Okul\Uygulamalar\C#\SiparişOtomasyon\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.frm_GonderilenSiparis.resources
+C:\Users\Alparslan\Desktop\SiparişOtomasyon\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.csprojAssemblyReference.cache
+C:\Users\Alparslan\Desktop\SiparişOtomasyon\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.frm_GenelGiris.resources
+C:\Users\Alparslan\Desktop\SiparişOtomasyon\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.frm_Hesabım.resources
+C:\Users\Alparslan\Desktop\SiparişOtomasyon\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.frm_MusteriAnaSayfa.resources
+C:\Users\Alparslan\Desktop\SiparişOtomasyon\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.frm_Sepetim.resources
+C:\Users\Alparslan\Desktop\SiparişOtomasyon\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.frm_SiparisVer.resources
+C:\Users\Alparslan\Desktop\SiparişOtomasyon\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.frm_YoneticiAnaSayfa.resources
+C:\Users\Alparslan\Desktop\SiparişOtomasyon\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.frm_Gecmisİslemler.resources
+C:\Users\Alparslan\Desktop\SiparişOtomasyon\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.frm_GelenSiparis.resources
+C:\Users\Alparslan\Desktop\SiparişOtomasyon\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.frm_GonderilenSiparis.resources
+C:\Users\Alparslan\Desktop\SiparişOtomasyon\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.Properties.Resources.resources
+C:\Users\Alparslan\Desktop\SiparişOtomasyon\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.Urun.resources
+C:\Users\Alparslan\Desktop\SiparişOtomasyon\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.csproj.GenerateResource.cache
+C:\Users\Alparslan\Desktop\SiparişOtomasyon\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Alparslan\Desktop\SiparişOtomasyon\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.exe
+C:\Users\Alparslan\Desktop\SiparişOtomasyon\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.pdb
+C:\Users\Alparslan\Desktop\SiparişOtomasyon\SiparişOtomasyon\bin\Debug\SiparişOtomasyon.exe.config
+C:\Users\Alparslan\Desktop\SiparişOtomasyon\SiparişOtomasyon\bin\Debug\SiparişOtomasyon.exe
+C:\Users\Alparslan\Desktop\SiparişOtomasyon\SiparişOtomasyon\bin\Debug\SiparişOtomasyon.pdb
+C:\Users\Alparslan\Desktop\SiparişOtomasyon\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.frm_OdemeEkrani.resources
+C:\Users\Alparslan\Desktop\SiparişOtomasyon - Kopya\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.csprojAssemblyReference.cache
+C:\Users\Alparslan\Desktop\SiparişOtomasyon - Kopya\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.frm_GenelGiris.resources
+C:\Users\Alparslan\Desktop\SiparişOtomasyon - Kopya\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.frm_OdemeEkrani.resources
+C:\Users\Alparslan\Desktop\SiparişOtomasyon - Kopya\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.frm_MusteriAnaSayfa.resources
+C:\Users\Alparslan\Desktop\SiparişOtomasyon - Kopya\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.frm_Sepetim.resources
+C:\Users\Alparslan\Desktop\SiparişOtomasyon - Kopya\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.frm_SiparisVer.resources
+C:\Users\Alparslan\Desktop\SiparişOtomasyon - Kopya\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.frm_YoneticiAnaSayfa.resources
+C:\Users\Alparslan\Desktop\SiparişOtomasyon - Kopya\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.Properties.Resources.resources
+C:\Users\Alparslan\Desktop\SiparişOtomasyon - Kopya\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.Urun.resources
+C:\Users\Alparslan\Desktop\SiparişOtomasyon - Kopya\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.csproj.GenerateResource.cache
+C:\Users\Alparslan\Desktop\SiparişOtomasyon - Kopya\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Alparslan\Desktop\SiparişOtomasyon - Kopya\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.exe
+C:\Users\Alparslan\Desktop\SiparişOtomasyon - Kopya\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.pdb
+C:\Users\Alparslan\Desktop\SiparişOtomasyon - Kopya\SiparişOtomasyon\bin\Debug\SiparişOtomasyon.exe.config
+C:\Users\Alparslan\Desktop\SiparişOtomasyon - Kopya\SiparişOtomasyon\bin\Debug\SiparişOtomasyon.exe
+C:\Users\Alparslan\Desktop\SiparişOtomasyon - Kopya\SiparişOtomasyon\bin\Debug\SiparişOtomasyon.pdb
+C:\Users\Alparslan\Desktop\SiparişOtomasyon - Kopya\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.frm_Siparis.resources
+C:\Users\HamdiDamar\Desktop\SiparişOtomasyon - Kopya\SiparişOtomasyon\bin\Debug\SiparişOtomasyon.exe.config
+C:\Users\HamdiDamar\Desktop\SiparişOtomasyon - Kopya\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.exe
+C:\Users\HamdiDamar\Desktop\SiparişOtomasyon - Kopya\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.pdb
+C:\Users\HamdiDamar\Desktop\SiparişOtomasyon - Kopya\SiparişOtomasyon\bin\Debug\SiparişOtomasyon.exe
+C:\Users\HamdiDamar\Desktop\SiparişOtomasyon - Kopya\SiparişOtomasyon\bin\Debug\SiparişOtomasyon.pdb
+C:\Users\HamdiDamar\Desktop\SiparişOtomasyon - Kopya\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\HamdiDamar\Desktop\SiparişOtomasyon - Kopya\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.frm_GenelGiris.resources
+C:\Users\HamdiDamar\Desktop\SiparişOtomasyon - Kopya\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.frm_OdemeEkrani.resources
+C:\Users\HamdiDamar\Desktop\SiparişOtomasyon - Kopya\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.frm_MusteriAnaSayfa.resources
+C:\Users\HamdiDamar\Desktop\SiparişOtomasyon - Kopya\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.frm_Sepetim.resources
+C:\Users\HamdiDamar\Desktop\SiparişOtomasyon - Kopya\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.frm_SiparisVer.resources
+C:\Users\HamdiDamar\Desktop\SiparişOtomasyon - Kopya\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.frm_YoneticiAnaSayfa.resources
+C:\Users\HamdiDamar\Desktop\SiparişOtomasyon - Kopya\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.frm_Siparis.resources
+C:\Users\HamdiDamar\Desktop\SiparişOtomasyon - Kopya\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.Properties.Resources.resources
+C:\Users\HamdiDamar\Desktop\SiparişOtomasyon - Kopya\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.Urun.resources
+C:\Users\HamdiDamar\Desktop\SiparişOtomasyon - Kopya\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.csproj.GenerateResource.Cache
+C:\Users\HamdiDamar\Desktop\SiparişOtomasyon - Kopya\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.OncekiSiparislerim.resources
+C:\Users\HamdiDamar\Desktop\SiparişOtomasyonSonHali\SiparişOtomasyon\bin\Debug\SiparişOtomasyon.exe.config
+C:\Users\HamdiDamar\Desktop\SiparişOtomasyonSonHali\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.exe
+C:\Users\HamdiDamar\Desktop\SiparişOtomasyonSonHali\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.pdb
+C:\Users\HamdiDamar\Desktop\SiparişOtomasyonSonHali\SiparişOtomasyon\bin\Debug\SiparişOtomasyon.exe
+C:\Users\HamdiDamar\Desktop\SiparişOtomasyonSonHali\SiparişOtomasyon\bin\Debug\SiparişOtomasyon.pdb
+C:\Users\HamdiDamar\Desktop\SiparişOtomasyonSonHali\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\HamdiDamar\Desktop\SiparişOtomasyonSonHali\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.frm_GenelGiris.resources
+C:\Users\HamdiDamar\Desktop\SiparişOtomasyonSonHali\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.frm_OdemeEkrani.resources
+C:\Users\HamdiDamar\Desktop\SiparişOtomasyonSonHali\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.frm_MusteriAnaSayfa.resources
+C:\Users\HamdiDamar\Desktop\SiparişOtomasyonSonHali\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.frm_Sepetim.resources
+C:\Users\HamdiDamar\Desktop\SiparişOtomasyonSonHali\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.frm_SiparisVer.resources
+C:\Users\HamdiDamar\Desktop\SiparişOtomasyonSonHali\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.frm_YoneticiAnaSayfa.resources
+C:\Users\HamdiDamar\Desktop\SiparişOtomasyonSonHali\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.frm_Siparis.resources
+C:\Users\HamdiDamar\Desktop\SiparişOtomasyonSonHali\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.OncekiSiparislerim.resources
+C:\Users\HamdiDamar\Desktop\SiparişOtomasyonSonHali\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.Properties.Resources.resources
+C:\Users\HamdiDamar\Desktop\SiparişOtomasyonSonHali\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.Urun.resources
+C:\Users\HamdiDamar\Desktop\SiparişOtomasyonSonHali\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.csproj.GenerateResource.Cache
+F:\Yedekler\Kişisel\Okul\0Dersler\2 Nesne\Mansur Hoca\SiparişOtomasyonSonHali\SiparişOtomasyon\bin\Debug\SiparişOtomasyon.exe.config
+F:\Yedekler\Kişisel\Okul\0Dersler\2 Nesne\Mansur Hoca\SiparişOtomasyonSonHali\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.exe
+F:\Yedekler\Kişisel\Okul\0Dersler\2 Nesne\Mansur Hoca\SiparişOtomasyonSonHali\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.pdb
+F:\Yedekler\Kişisel\Okul\0Dersler\2 Nesne\Mansur Hoca\SiparişOtomasyonSonHali\SiparişOtomasyon\bin\Debug\SiparişOtomasyon.exe
+F:\Yedekler\Kişisel\Okul\0Dersler\2 Nesne\Mansur Hoca\SiparişOtomasyonSonHali\SiparişOtomasyon\bin\Debug\SiparişOtomasyon.pdb
+F:\Yedekler\Kişisel\Okul\0Dersler\2 Nesne\Mansur Hoca\SiparişOtomasyonSonHali\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.csprojResolveAssemblyReference.cache
+F:\Yedekler\Kişisel\Okul\0Dersler\2 Nesne\Mansur Hoca\SiparişOtomasyonSonHali\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.frm_GenelGiris.resources
+F:\Yedekler\Kişisel\Okul\0Dersler\2 Nesne\Mansur Hoca\SiparişOtomasyonSonHali\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.frm_OdemeEkrani.resources
+F:\Yedekler\Kişisel\Okul\0Dersler\2 Nesne\Mansur Hoca\SiparişOtomasyonSonHali\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.frm_MusteriAnaSayfa.resources
+F:\Yedekler\Kişisel\Okul\0Dersler\2 Nesne\Mansur Hoca\SiparişOtomasyonSonHali\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.frm_Sepetim.resources
+F:\Yedekler\Kişisel\Okul\0Dersler\2 Nesne\Mansur Hoca\SiparişOtomasyonSonHali\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.frm_SiparisVer.resources
+F:\Yedekler\Kişisel\Okul\0Dersler\2 Nesne\Mansur Hoca\SiparişOtomasyonSonHali\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.frm_YoneticiAnaSayfa.resources
+F:\Yedekler\Kişisel\Okul\0Dersler\2 Nesne\Mansur Hoca\SiparişOtomasyonSonHali\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.frm_Siparis.resources
+F:\Yedekler\Kişisel\Okul\0Dersler\2 Nesne\Mansur Hoca\SiparişOtomasyonSonHali\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.OncekiSiparislerim.resources
+F:\Yedekler\Kişisel\Okul\0Dersler\2 Nesne\Mansur Hoca\SiparişOtomasyonSonHali\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.Properties.Resources.resources
+F:\Yedekler\Kişisel\Okul\0Dersler\2 Nesne\Mansur Hoca\SiparişOtomasyonSonHali\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.Urun.resources
+F:\Yedekler\Kişisel\Okul\0Dersler\2 Nesne\Mansur Hoca\SiparişOtomasyonSonHali\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.csproj.GenerateResource.Cache
+C:\Users\Alparslan\Desktop\SiparişOtomasyonSonHali2\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.csprojAssemblyReference.cache
+C:\Users\Alparslan\Desktop\SiparişOtomasyonSonHali2\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.frm_GenelGiris.resources
+C:\Users\Alparslan\Desktop\SiparişOtomasyonSonHali2\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.frm_OdemeEkrani.resources
+C:\Users\Alparslan\Desktop\SiparişOtomasyonSonHali2\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.frm_MusteriAnaSayfa.resources
+C:\Users\Alparslan\Desktop\SiparişOtomasyonSonHali2\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.frm_Sepetim.resources
+C:\Users\Alparslan\Desktop\SiparişOtomasyonSonHali2\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.frm_SiparisVer.resources
+C:\Users\Alparslan\Desktop\SiparişOtomasyonSonHali2\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.frm_YoneticiAnaSayfa.resources
+C:\Users\Alparslan\Desktop\SiparişOtomasyonSonHali2\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.frm_Siparis.resources
+C:\Users\Alparslan\Desktop\SiparişOtomasyonSonHali2\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.OncekiSiparislerim.resources
+C:\Users\Alparslan\Desktop\SiparişOtomasyonSonHali2\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.Properties.Resources.resources
+C:\Users\Alparslan\Desktop\SiparişOtomasyonSonHali2\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.frm_Urun.resources
+C:\Users\Alparslan\Desktop\SiparişOtomasyonSonHali2\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.csproj.GenerateResource.cache
+C:\Users\Alparslan\Desktop\SiparişOtomasyonSonHali2\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Alparslan\Desktop\SiparişOtomasyonSonHali2\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.exe
+C:\Users\Alparslan\Desktop\SiparişOtomasyonSonHali2\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.pdb
+C:\Users\Alparslan\Desktop\SiparişOtomasyonSonHali2\SiparişOtomasyon\bin\Debug\SiparişOtomasyon.exe.config
+C:\Users\Alparslan\Desktop\SiparişOtomasyonSonHali2\SiparişOtomasyon\bin\Debug\SiparişOtomasyon.exe
+C:\Users\Alparslan\Desktop\SiparişOtomasyonSonHali2\SiparişOtomasyon\bin\Debug\SiparişOtomasyon.pdb
+C:\Users\HamdiDamar\Desktop\Hamdi Damar 172802005\SiparişOtomasyonSonHali2\SiparişOtomasyon\bin\Debug\SiparişOtomasyon.exe.config
+C:\Users\HamdiDamar\Desktop\Hamdi Damar 172802005\SiparişOtomasyonSonHali2\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.exe
+C:\Users\HamdiDamar\Desktop\Hamdi Damar 172802005\SiparişOtomasyonSonHali2\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.pdb
+C:\Users\HamdiDamar\Desktop\Hamdi Damar 172802005\SiparişOtomasyonSonHali2\SiparişOtomasyon\bin\Debug\SiparişOtomasyon.exe
+C:\Users\HamdiDamar\Desktop\Hamdi Damar 172802005\SiparişOtomasyonSonHali2\SiparişOtomasyon\bin\Debug\SiparişOtomasyon.pdb
+C:\Users\HamdiDamar\Desktop\Hamdi Damar 172802005\SiparişOtomasyonSonHali2\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\HamdiDamar\Desktop\Hamdi Damar 172802005\SiparişOtomasyonSonHali2\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.frm_GenelGiris.resources
+C:\Users\HamdiDamar\Desktop\Hamdi Damar 172802005\SiparişOtomasyonSonHali2\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.frm_OdemeEkrani.resources
+C:\Users\HamdiDamar\Desktop\Hamdi Damar 172802005\SiparişOtomasyonSonHali2\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.frm_MusteriAnaSayfa.resources
+C:\Users\HamdiDamar\Desktop\Hamdi Damar 172802005\SiparişOtomasyonSonHali2\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.frm_Sepetim.resources
+C:\Users\HamdiDamar\Desktop\Hamdi Damar 172802005\SiparişOtomasyonSonHali2\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.frm_SiparisVer.resources
+C:\Users\HamdiDamar\Desktop\Hamdi Damar 172802005\SiparişOtomasyonSonHali2\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.frm_YoneticiAnaSayfa.resources
+C:\Users\HamdiDamar\Desktop\Hamdi Damar 172802005\SiparişOtomasyonSonHali2\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.frm_Siparis.resources
+C:\Users\HamdiDamar\Desktop\Hamdi Damar 172802005\SiparişOtomasyonSonHali2\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.frm_OncekiSiparislerim.resources
+C:\Users\HamdiDamar\Desktop\Hamdi Damar 172802005\SiparişOtomasyonSonHali2\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.Properties.Resources.resources
+C:\Users\HamdiDamar\Desktop\Hamdi Damar 172802005\SiparişOtomasyonSonHali2\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.frm_Urun.resources
+C:\Users\HamdiDamar\Desktop\Hamdi Damar 172802005\SiparişOtomasyonSonHali2\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.csproj.GenerateResource.Cache
+C:\Users\HamdiDamar\Desktop\Hamdi Damar 172802005 - Kopya\SiparişOtomasyonSonHali2\SiparişOtomasyon\bin\Debug\SiparişOtomasyon.exe.config
+C:\Users\HamdiDamar\Desktop\Hamdi Damar 172802005 - Kopya\SiparişOtomasyonSonHali2\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.pdb
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Nesneye Yönelik Programlama\Hamdi Damar 172802005\SiparişOtomasyonSonHali2\SiparişOtomasyon\bin\Debug\SiparişOtomasyon.exe.config
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Nesneye Yönelik Programlama\Hamdi Damar 172802005\SiparişOtomasyonSonHali2\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.exe
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Nesneye Yönelik Programlama\Hamdi Damar 172802005\SiparişOtomasyonSonHali2\SiparişOtomasyon\obj\Debug\SiparişOtomasyon.pdb
