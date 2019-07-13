@@ -7,7 +7,7 @@ using System.IO;
 using System.Threading.Tasks;
 
 namespace SiparişOtomasyon
-{/*Hamdi DAMAR 172802029*/
+{
     public  class Urun : Yonetici
     {
      
