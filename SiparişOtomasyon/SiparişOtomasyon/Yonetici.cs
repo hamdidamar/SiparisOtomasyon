@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace SiparişOtomasyon
 {
     public class Yonetici :  Kisi
-    {/*Hamdi DAMAR 172802029*/
+    {
 
         public int UrunAgirlik { get; set; }
         public double UrunFiyat { get; set; }
