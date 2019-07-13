@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 namespace SiparişOtomasyon
-{/*Hamdi DAMAR 172802029*/
+{
     public class Kargo
     {
 
