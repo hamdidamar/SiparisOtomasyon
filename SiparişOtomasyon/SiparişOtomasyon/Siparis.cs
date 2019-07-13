@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace SiparişOtomasyon
-{/*Hamdi DAMAR 172802029*/
+{
     public class Siparis : Musteri
     {
         public static ListView listView;
