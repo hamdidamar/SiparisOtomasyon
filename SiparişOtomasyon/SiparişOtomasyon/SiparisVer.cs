@@ -7,7 +7,7 @@ using System.Windows.Forms;
 
 
 namespace SiparişOtomasyon
-{/*Hamdi DAMAR 172802029*/
+{
     class SiparisVer : Urun
     { 
         public void ComboboxaUrunAta(ListView liste,ComboBox cmbx_UrunAdlari)
