@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace SiparişOtomasyon
-{/*Hamdi DAMAR 172802029*/
+{
     public class Kisi
     {
         public static string TCKimlikNo { get; set; }
